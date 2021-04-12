@@ -9,4 +9,4 @@
 
 </br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagonunes&langs_count=5&theme=tokyonight&hide=java)](https://github.com/tyagonunes/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagonunes&langs_count=5&theme=tokyonight&hide=java)](https://github.com/anuraghazra/github-readme-stats)
